@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.chmnu_ki_123.k3.CaesarDecypherTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s -- in com.chmnu_ki_123.k3.CaesarDecypherTest
